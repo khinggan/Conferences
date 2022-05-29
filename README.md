@@ -40,4 +40,5 @@ ANTS 11.2
 | Autonomous Robots | Volume 46, issue 4 |
 | IEEE Communications Surveys & Tutorials | Issue 2 ,Secondquarter-2022 |
 | 自动化学报 | 2022年48卷5期 |
+| 计算机学报 | 2022年No.5 |
 
