@@ -27,7 +27,7 @@ ANTS 11.2
 | Journal | latest issue |
 | ------- | ------------ |
 | Swarm Intelligence | Volume 16, issue 2, June 2022 |
-| International Journal of Swarm Intelligence | 2022 Vol.7 No.1 |
+| International Journal of Swarm Intelligence | 2022 Vol.7 No.2 |
 | Science Robotics | volume 7, issue66, May 2022 |
 | IJRR | Volume 41 Issue 3, March 2022 |
 | IEEE Transactions on Robotics | Issue 2, April-2022 |
@@ -36,7 +36,7 @@ ANTS 11.2
 | frontiers: Robotics and AI: Multi-robot system | 58 articles |
 | Robotica | Volume 40 - Issue 6 - June 2022 |
 | Robot and Automation System | Volume 154 |
-| 机器人 | 2022,No2 |
+| 机器人 | 2022,No3 |
 | Autonomous Robots | Volume 46, issue 4 |
 | IEEE Communications Surveys & Tutorials | Issue 2 ,Secondquarter-2022 |
 | 自动化学报 | 2022年48卷5期 |
