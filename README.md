@@ -28,11 +28,11 @@ ANTS 11.2
 | ------- | ------------ |
 | Swarm Intelligence | Volume 16, issue 2, June 2022 |
 | International Journal of Swarm Intelligence | 2022 Vol.7 No.2 |
-| Science Robotics | volume 7, issue67, May 2022 |
-| IJRR | Volume 41 Issue 4, March 2022 |
+| Science Robotics | volume 7, issue68, May 2022 |
+| IJRR | Volume 41 Issue 5, April 2022 |
 | IEEE Transactions on Robotics | Issue 3, April-2022 |
 | Field Robotics | Volume 39, issue 5 |
-| Journal of Intelligent & Robotic Systems | Volume 105, issue 3, June 2022 |
+| Journal of Intelligent & Robotic Systems | Volume 105, issue 4, June 2022 |
 | frontiers: Robotics and AI: Multi-robot system | 58 articles |
 | Robotica | Volume 40 - Issue 8 - June 2022 |
 | Robot and Automation System | Volume 155 |
