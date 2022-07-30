@@ -31,14 +31,14 @@ ANTS 11.2
 | Science Robotics | volume 7, issue68, May 2022 |
 | IJRR | Volume 41 Issue 5, April 2022 |
 | IEEE Transactions on Robotics | Issue 3, April-2022 |
-| Field Robotics | Volume 39, issue 5 |
+| Field Robotics | Volume 39, issue 6 |
 | Journal of Intelligent & Robotic Systems | Volume 105, issue 4, June 2022 |
 | frontiers: Robotics and AI: Multi-robot system | 58 articles |
 | Robotica | Volume 40 - Issue 8 - June 2022 |
 | Robot and Automation System | Volume 155 |
-| 机器人 | 2022,No3 |
-| Autonomous Robots | Volume 46, issue 5 |
+| 机器人 | 2022,No4 |
+| Autonomous Robots | Volume 46, issue 6 |
 | IEEE Communications Surveys & Tutorials | Issue 2 ,Secondquarter-2022 |
-| 自动化学报 | 2022年48卷7期 |
+| 自动化学报 | 2022年48卷8期 |
 | 计算机学报 | 2022年No.6 |
 
